@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #ff8953;
+    color: #50aa5c;
     font-weight: 600;
 }
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #15dbba;
+    background-color: #b16723;
 
 }
 
@@ -132,13 +132,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #5c925e;
+    background-color: #6681c9;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #85124b;
+    background-color: #a3d388;
 }
 .menu-acessibilidade{
     position: fixed;
