@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #ff0000;
+    --laranja-claro: #67c7c7;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #000000;
-    --alto-contraste-link: #00d9ff;
+    --alto-contraste-link: #556431;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ff00b3;
+    background-color: #3a3f86;
 }
 
 
